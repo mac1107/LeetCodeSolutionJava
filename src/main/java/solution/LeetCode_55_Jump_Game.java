@@ -1,7 +1,5 @@
 package solution;
 
-import java.util.Arrays;
-
 public class LeetCode_55_Jump_Game {
     public boolean canJump(int[] nums) {
 

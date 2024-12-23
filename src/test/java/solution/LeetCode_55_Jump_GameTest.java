@@ -1,7 +1,5 @@
 package solution;
 
-import static org.junit.jupiter.api.Assertions.*;
-
 class LeetCode_55_Jump_GameTest {
 
     @org.junit.jupiter.api.Test
